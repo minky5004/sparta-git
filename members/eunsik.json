@@ -1,0 +1,70 @@
+{
+  "id": "eunsik",
+  "name": "정은식",
+  "subName": "풀스택 개발자",
+  "profileImage": "image/profile_image.png",
+  "introduction": {
+    "quote": "프론트엔드와 백엔드를\n모두 다루는 개발자입니다.",
+    "detail": "프론트엔드부터 백엔드까지 전체 스택을 이해하고 개발할 수 있습니다. React와 Spring을 주로 사용하며, 프로젝트의 전체적인 흐름을 파악하여 효율적인 솔루션을 제공합니다."
+  },
+  "info": {
+    "description": "Spring과 React를 모두 사용할수있는 개발자가 되고싶슴다.",
+    "birthday": "1997.02.15",
+    "location": "경기도 안양시 동안구",
+    "email": "bamtol2100@naver.com",
+    "phone": "010-5096-2429"
+  },
+  "strengths": [
+    "친화력",
+    "실행력",
+    "팀워크"
+  ],
+  "skills": [
+    { "name": "HTML", "progress": 85 },
+    { "name": "CSS", "progress": 80 },
+    { "name": "JavaScript", "progress": 90 },
+    { "name": "Spring", "progress": 85 },
+    { "name": "React", "progress": 80 }
+  ],
+  "licenses": [
+    "정보처리기사",
+    "SQLD",
+    "리눅스마스터2급"
+  ],
+  "education": [
+    {
+      "name": "동안 고등학교",
+      "period": "2012.03.02 ~ 2015.02.01",
+      "location": "경기도 안양시"
+    },
+    {
+      "name": "국제대학교",
+      "period": "2015.03.02 ~ 2020.02.20",
+      "gpa": "3.9",
+      "location": "경기도 평택시"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2년",
+      "company": "국제대학교",
+      "term": "2020.02~2022.02",
+      "team": "호텔외식조리학과",
+      "task": "학과업무",
+      "project": {
+        "name": "실시간 채팅 시스템 개발",
+        "term": "2021.06~2022.03",
+        "detail": "React와 Socket.io를 활용한 실시간 채팅 애플리케이션 개발"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "소개팅 플랫폼",
+      "description": "웹 소개팅 사이트를 개발했습니다. React로 프론트엔드를, Spring으로 백엔드를 구현하여 실시간 채팅과 위치에 따른 매칭 등을 구현했습니다.",
+      "image": "image/홈페이짘.png",
+      "link": "project2.html"
+    }
+  ]
+}
+
