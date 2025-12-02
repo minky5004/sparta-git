@@ -1,0 +1,70 @@
+{
+  "id": "member1",
+  "name": "윤민기",
+  "subName": "프론트엔드 개발자",
+  "profileImage": "image/profile_image.png",
+  "introduction": {
+    "quote": "사용자 경험을 중시하는\n프론트엔드 개발자입니다.",
+    "detail": "사용자 중심의 인터페이스를 설계하고 구현하는 것을 좋아합니다. React와 TypeScript를 활용하여 안정적이고 확장 가능한 웹 애플리케이션을 개발하고 있습니다. 팀과의 협업을 통해 더 나은 제품을 만들어가고 싶습니다."
+  },
+  "info": {
+    "description": "React와 TypeScript를 활용하여 프론트엔드 개발을 하고 있습니다.",
+    "birthday": "2002.02.01",
+    "location": "충청남도 천안시",
+    "email": "minky5004@gmail.com",
+    "phone": "010-6730-7747"
+  },
+  "strengths": [
+    "엉뚱함",
+    "협업",
+    "문제해결",
+    "엉덩이 무거움",
+    "집중력"
+  ],
+  "skills": [
+    { "name": "Python", "progress": 70 },
+    { "name": "SQL", "progress": 50 },
+    { "name": "Java", "progress": 90 },
+    { "name": "C++", "progress": 50 },
+    { "name": "Unity", "progress": 60 }
+  ],
+  "licenses": [
+    "정보처리기사"
+  ],
+  "education": [
+    {
+      "name": "의성고등학교",
+      "period": "2018.03.02 ~ 2021.02.14",
+      "location": "경상북도 의성"
+    },
+    {
+      "name": "공주대학교",
+      "period": "2021.03.02 ~ 휴학",
+      "gpa": "3.0",
+      "location": "충청남도 천안시"
+    }
+  ],
+  "experience": [
+    {
+      "period": "1년",
+      "company": "프로젝트문",
+      "term": "2027.01~2028.01",
+      "team": "프론트엔드팀, 주니어 개발자",
+      "task": "React 기반 웹 애플리케이션 개발",
+      "project": {
+        "name": "고객 개인 정보 확인 사이트",
+        "term": "2027.01~2028.01",
+        "detail": "React와 TypeScript를 사용한 대시보드 UI 개발 및 상태 관리 최적화"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "게임 웹사이트",
+      "description": "React와 Node.js를 활용한 게임 홈페이지 플랫폼을 개발했습니다. 사용자 인증을 구현하여 개인 정보 확인을 제공합니다.",
+      "image": "image/p1.png",
+      "link": "project.html"
+    }
+  ]
+}
+
